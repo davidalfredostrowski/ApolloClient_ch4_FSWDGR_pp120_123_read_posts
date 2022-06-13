@@ -1,0 +1,11 @@
+I need to have chapter 1,2,3 examples (including newsfeed example from chapter one)
+
+
+
+
+Enhancement for the means of integrating the graphQL read from our database directly to the React.js client interface (vs only making it available from the developers console.)
+
+Files involved: 
+src/client/index.js
+src/client/App.js
+src/client/Feed.js
